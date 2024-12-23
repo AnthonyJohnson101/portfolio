@@ -1,3 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;700&display=swap');
+
+body {
+  font-family: 'Quicksand', sans-serif;
+}
+
+.main-background {
+  background-color: rgb(7, 1, 41); /* Dark blue background color */
+  opacity: 0.95;
+  min-height: 100vh; /* Ensure it covers the full viewport height */
+  display: flex;
+  flex-direction: column;
+}
+
 .App {
   text-align: center;
 }
