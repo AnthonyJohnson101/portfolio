@@ -1,5 +1,7 @@
 import React from 'react';
 import picture from '../assets/picture2.jpg';
+import Resume from '../assets/JohnsonResume.pdf'
+
 
 function Hero() {
     return (
@@ -17,7 +19,7 @@ function Hero() {
                                 <br /><br />
                                 I hold a Full Stack Web Development Certification from Michigan State University and have strong skills in front-end and back-end development, including HTML, CSS, JavaScript, React, Express.js, Node.js, and MongoDB.
                             </h4>
-                            <button type="button" className="btn btn-outline-light">Get my resume</button>
+                            <a href={Resume} target="_blank" rel="noopener noreferrer" className="btn btn-outline-light m-1" download>Get my resume</a>
                         </div>
                     </div>
                     <div className="col-md-6 d-flex justify-content-center align-items-center py-5">

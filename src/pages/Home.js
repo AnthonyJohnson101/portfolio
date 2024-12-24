@@ -5,7 +5,7 @@ import Hero from '../components/Hero'; // Adjust the path as necessary
 
 function Home() {
     return (
-        <div className='container-fluid min-vh-100'>
+        <div id='home' className='container-fluid min-vh-100'>
            <Navbar />
            <Hero />
         </div>

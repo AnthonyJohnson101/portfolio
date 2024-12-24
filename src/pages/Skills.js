@@ -64,7 +64,7 @@ const Skills = () => {
     ];
 
     return (
-        <div className='container-fluid d-flex flex-column align-items-center justify-content-center text-white min-vh-100 px-5'>
+        <div id='skills' className='container-fluid d-flex flex-column align-items-center justify-content-center text-white min-vh-100 px-5'>
             <div className='row'>
                 <h1 className='mb-5'>Skills</h1>
             </div>
@@ -75,7 +75,7 @@ const Skills = () => {
                         <h2>{skillCategory.category}</h2>
                         <div className='d-flex flex-wrap'>
                             {skillCategory.items.map((skill, skillIndex) => (
-                                <div className='bg-dark rounded p-1 m-1 fs-5' key={skillIndex}>{skill}</div>
+                                <div className='bg-dark rounded p-2 m-2 fs-4' key={skillIndex}>{skill}</div>
                             ))}
                         </div>
                     </div>
