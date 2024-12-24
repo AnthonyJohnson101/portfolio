@@ -53,7 +53,7 @@ const Skills = () => {
                         <h2>{skillCategory.category}</h2>
                         <div className='d-flex flex-wrap'>
                             {skillCategory.items.map((skill, skillIndex) => (
-                                <div className='bg-dark rounded p-2 m-2 fs-4' key={skillIndex}>{skill}</div>
+                                <div className='bg-dark rounded p-2 m-2 fs-4 pop-item border' key={skillIndex}>{skill}</div>
                             ))}
                         </div>
                     </div>

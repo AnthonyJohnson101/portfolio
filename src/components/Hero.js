@@ -25,6 +25,7 @@ function Hero() {
                     <div className="col-md-6 d-flex justify-content-center align-items-center py-5">
                         <img src={picture} className="img-fluid rounded border border-2 border-white" alt="placeholder"/>
                     </div>
+                    <svg className="bounce-item d-none d-md-block" href='#About' width="64px" height="64px" viewBox="0 0 24.00 24.00" fill="none" xmlns="http://www.w3.org/2000/svg" transform="rotate(90)" stroke="#ffffff" stroke-width="0.00024000000000000003"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M5.63574 7.75737L7.04996 6.34315L12.7068 12L7.04998 17.6568L5.63577 16.2426L9.87839 12L5.63574 7.75737Z" fill="#ffffff"></path> <path d="M12.7068 6.34315L11.2926 7.75737L15.5352 12L11.2926 16.2426L12.7068 17.6568L18.3637 12L12.7068 6.34315Z" fill="#ffffff"></path> </g></svg>
                 </div>
             </div>
     );

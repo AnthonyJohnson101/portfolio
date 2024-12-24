@@ -18,6 +18,14 @@ body {
   position: absolute;
 }
 
+.pop-item {
+  transition: transform 0.2s ease-in-out;
+}
+
+.pop-item:hover {
+  transform: scale(1.05);
+}
+
 .App {
   text-align: center;
 }
@@ -55,4 +63,20 @@ body {
   to {
     transform: rotate(360deg);
   }
+}
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0) rotate(90deg);
+  }
+  40% {
+    transform: translateY(-10px) rotate(90deg);
+  }
+  60% {
+    transform: translateY(-5px) rotate(90deg);
+  }
+}
+
+.bounce-item {
+  animation: bounce 2s infinite;
 }
