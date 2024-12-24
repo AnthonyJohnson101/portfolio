@@ -3,15 +3,15 @@ import React from 'react';
 const aboutData = [
     {
         title: 'Offer a job opportunity?',
-        content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum'
+        content: 'As a certified Full Stack Web Developer with experience in creating innovative and responsive web applications, I’m always open to new opportunities where I can contribute to impactful projects. Whether it’s leveraging my skills in the MERN stack or collaborating with a team to build robust solutions, I’m ready to bring value to your organization.'
     },
     {
         title: 'Connect?',
-        content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum'
+        content: 'I enjoy connecting with like-minded professionals and enthusiasts in the tech space. Whether it’s sharing ideas, discussing emerging technologies, or exploring potential collaborations, I’m always eager to expand my network and engage with the community.'
     },
     {
         title: 'Build something?',
-        content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.'
+        content: 'Let’s turn ideas into reality! With experience in both front-end and back-end development, as well as a passion for solving problems through technology, I’m excited to collaborate on projects that make a difference. Let’s create something amazing together!'
     }
 ];
 

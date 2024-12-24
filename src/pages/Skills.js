@@ -5,60 +5,38 @@ const Skills = () => {
         {
             category: 'Front-End',
             items: [
-                'JavaScript',
-                'React',
-                'Node.js',
                 'HTML',
                 'CSS',
-                'Git',
-                'Webpack',
                 'JavaScript',
                 'React',
-                'Node.js',
-                'HTML',
-                'CSS',
-                'Git',
+                'Responsive Design',
+                'Next.js',
+                'UI/UX Design',
                 'Webpack',
-                'JavaScript',
-                'Babel'
             ]
         },
         {
             category: 'Back-End',
             items: [
-                'JavaScript',
-                'React',
                 'Node.js',
-                'HTML',
-                'CSS',
-                'Git',
-                'Webpack',
-                'JavaScript',
-                'React',
-                'Node.js',
-                'HTML',
-                'CSS',
-                'Git',
-                'Webpack',
-                'JavaScript',
-                'Babel'
+                'Express.js',
+                'MongoDB',
+                'MySQL',
+                'Sequelize',
+                'RESTful APIs',
+                'Authentication and Authorization',
+                'Database Design and Management'
             ]
         },
         {
             category: 'Concepts',
             items: [
-                'JavaScript',
-                'React',
-                'Node.js',
-                'HTML',
-                'CSS',
-                'Git',
-                'Webpack',
-                'JavaScript',
-                'React',
-                'Node.js',
-                'HTML',
-                'CSS'
+                'Progressive Web Applications (PWAs)',
+                'Third-Party API Integration',
+                'Version Control (Git, GitHub)',
+                'Agile Development',
+                'Problem-Solving and Debugging',
+                'Collaboration and Teamwork'
             ]
         }
     ];

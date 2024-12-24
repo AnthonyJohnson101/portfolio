@@ -3,15 +3,15 @@ import React from 'react';
 const aboutData = [
     {
         title: 'Past',
-        content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum'
+        content: 'From a young age, I was fascinated by technology and its potential to transform lives. Whether it was tinkering with gadgets, experimenting with simple coding, or exploring how machines worked, I always sought to understand and create. This passion laid the foundation for my journey into technology. My diverse professional experience—from managing customer service interactions to handling industrial machinery—has shaped my work ethic and problem-solving skills, essential qualities in software development.'
     },
     {
         title: 'Present',
-        content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum'
+        content: 'Today, I channel my lifelong passion into creating innovative web solutions. Having earned my Full Stack Web Development Certification from Michigan State University, I’ve honed my skills in technologies like HTML, CSS, JavaScript, React, Node.js, and MongoDB. My work on projects like ReciPeers, Day2Day, and J.A.T.E. showcases my ability to build intuitive, responsive, and functional applications. Whether collaborating in teams or tackling solo projects, I bring a detail-oriented and resourceful approach to solving technical challenges'
     },
     {
         title: 'Future',
-        content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.'
+        content: 'Looking ahead, I aim to push the boundaries of technology further. My vision is to leverage web development to create tools and applications that enhance daily life and foster connections. I’m excited to work in collaborative environments where I can learn from others, contribute meaningfully, and grow both personally and professionally. As I continue this journey, I hope to inspire others with my story and passion for innovation.'
     }
 ];
 
