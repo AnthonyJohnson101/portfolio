@@ -4,12 +4,18 @@ body {
   font-family: 'Quicksand', sans-serif;
 }
 
-.main-background {
-  background-color: rgb(7, 1, 41); /* Dark blue background color */
-  
-  min-height: 100vh; /* Ensure it covers the full viewport height */
+/*  .main-background {
+  background-color: rgb(7, 1, 41);
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
+}  */
+
+#particles {
+  z-index: -1; /* Changed from -1 to -2 */
+  height: 100%;
+  width: 100%;
+  position: absolute;
 }
 
 .App {
