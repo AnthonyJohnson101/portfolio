@@ -6,7 +6,7 @@ body {
 
 .main-background {
   background-color: rgb(7, 1, 41); /* Dark blue background color */
-  opacity: 0.95;
+  
   min-height: 100vh; /* Ensure it covers the full viewport height */
   display: flex;
   flex-direction: column;

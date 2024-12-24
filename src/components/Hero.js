@@ -3,16 +3,15 @@ import picture from '../assets/picture2.jpg';
 
 function Hero() {
     return (
-        <div className="mask" /* style={{ backgroundColor: 'rgb(28, 16, 97)' }} */>
-            <div className='container-fluid px-5'>
-                <div className='row'>
-                    <div className="col-md-6 d-flex justify-content-center align-items-center h-100 py-5">
+            <div className='px-5'>
+                <div className='row align-items-center' style={{ minHeight: '90vh' }}>
+                    <div className="col-md-6 d-flex py-5">
                         <div className="text-white">
                             <h4 className="mb-3">Hello! I am</h4>
                             <h4 className="mb-3">Tony Johnson</h4>
                             <h4 className="mb-3">Full Stack Web Developer</h4>
                             <h4 className="mb-3">
-                                I’m a passionate Software Engineer based in Michigan with experience in customer care, manufacturing, and retail.
+                                I’m a passionate Web Developer based in Michigan with experience in customer care, manufacturing, and retail.
                                 As a recent graduate of Michigan State University's Full Stack Web Development Bootcamp, I’m excited to transition into a tech-driven career and apply my skills in coding,
                                 problem-solving, and collaboration to develop impactful software solutions.
                                 <br /><br />
@@ -26,7 +25,6 @@ function Hero() {
                     </div>
                 </div>
             </div>
-        </div>
     );
 }
 
